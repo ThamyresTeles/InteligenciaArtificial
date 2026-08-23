@@ -16,6 +16,9 @@ Este repositório tem como finalidade armazenar, organizar e divulgar as ativida
 ### Lista 01
 - Lista 01: [[Clique para ser redirecionado](https://colab.research.google.com/drive/1XWukDcz1arqHJAXBg0nXBTKiIwHJY4DN?authuser=1#scrollTo=U3WdM_yN1GQj)]
 
+### Lista 02
+- Lista 02: [Acessar no Google Colab](https://colab.research.google.com/drive/1tdKImcr-EJTYleV5DJkhTam9nsGFKyVr?authuser=1#scrollTo=0xhE4D4SH4D1)
+
 ## 📁 Estrutura do repositório
 
 ```text
@@ -33,5 +36,6 @@ InteligenciaArtificial/
 - Este repositório foi criado para a postagem das atividades da disciplina.
 - A organização pode ser ajustada conforme novas listas e materiais forem adicionados.
 - Os links podem ser atualizados conforme o professor disponibilizar as atividades e os materiais da turma.
+- Para executar a Lista 02 de Pandas, adicione a pasta `PANDAS_DADOS` no ambiente do Google Colab. Ela deve conter os arquivos Excel utilizados pelos exercícios, como `vendas.xlsx` e `lojas.xlsx`.
 
 
